@@ -2,4 +2,4 @@
 username = Tom Dunlap
 
 [extensions]
-prompt =
+prompt = ~/.hg_extensions/hg-prompt/prompt.py
